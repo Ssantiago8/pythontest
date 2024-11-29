@@ -26,6 +26,8 @@ git clone [https://github.com/your-username/pricing-analysis.git](https://github
 
 cd pricing-analysis
 
+theres a test csv file that you can download within this same repository, since the test csv was chopped by half.
+
 Open the Colab notebook (Pricing_Analysis.ipynb) from the repository link.
 
 Upload your CSV file with columns:
